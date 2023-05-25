@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZUpG+btt2MoLmYeH8cVx2hv/ctTmnkjG9gcRd1ecqSCPMVMQE4mpzoA4qh098cBhD6ygx3M92wHr+9FAlr9lAA==",
+  "dgSpecHash": "gYO1HZl30gs5yj2Ixbsvnu6qm+QCGLqOPhH4oQ0X+hpiWtJ7/v5ep+n1mNdoyRWTpULwdMrIg1zmvWk2xb9UHA==",
   "success": true,
-  "projectFilePath": "/home/geeknation/MiddlewaresSample/MiddlewaresSample.csproj",
+  "projectFilePath": "/home/zeal/MiddlewaresSample/MiddlewaresSample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

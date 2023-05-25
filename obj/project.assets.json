@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/geeknation/.nuget/packages/": {}
+    "/home/zeal/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/geeknation/MiddlewaresSample/MiddlewaresSample.csproj",
+      "projectUniqueName": "/home/zeal/MiddlewaresSample/MiddlewaresSample.csproj",
       "projectName": "MiddlewaresSample",
-      "projectPath": "/home/geeknation/MiddlewaresSample/MiddlewaresSample.csproj",
-      "packagesPath": "/home/geeknation/.nuget/packages/",
-      "outputPath": "/home/geeknation/MiddlewaresSample/obj/",
+      "projectPath": "/home/zeal/MiddlewaresSample/MiddlewaresSample.csproj",
+      "packagesPath": "/home/zeal/.nuget/packages/",
+      "outputPath": "/home/zeal/MiddlewaresSample/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/geeknation/.nuget/NuGet/NuGet.Config"
+        "/home/zeal/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.408/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/200/sdk/6.0.408/RuntimeIdentifierGraph.json"
       }
     }
   }
